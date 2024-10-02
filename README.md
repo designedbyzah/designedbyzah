@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I'm Zah. I'm a Design Engineer.</p>
+<p>I'm Zah. I'm a UX Engineer.</p>
 <p>I will be putting out some of my engineering works on here in the coming months.</p>
 <p>Cheers 😄 </p>
 <!--
